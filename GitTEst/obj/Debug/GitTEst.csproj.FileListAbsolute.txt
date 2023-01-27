@@ -1,0 +1,11 @@
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\bin\Debug\GitTEst.exe.config
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\bin\Debug\GitTEst.exe
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\bin\Debug\GitTEst.pdb
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.csproj.AssemblyReference.cache
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.Form1.resources
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.Properties.Resources.resources
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.csproj.GenerateResource.cache
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.csproj.CoreCompileInputs.cache
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.exe
+C:\Users\nikor\OneDrive\Рабочий стол\Practies\GitTEst\GitTEst\obj\Debug\GitTEst.pdb
